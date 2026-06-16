@@ -42,13 +42,13 @@
 
 ## Contoh Hasil Bacaan
 
-### Struk 1 bill_.jpg
+### Struk 1 Struk1.png
 
 Subtotal Rp 330.000, total (sudah termasuk pajak & service) Rp 392.040.
 
 ![Screenshot](figs/Struk1.png)
 
-### Struk 2 bill2.jpg
+### Struk 2 Struk2.png
 
 Total Rp 47.000.
 
@@ -96,4 +96,7 @@ Pengujian dijalankan di Google Colab.
 - Pisahin pajak dan service dengan membaca keduanya langsung dari struk.
 - Tambah validasi supaya semua item harus sudah diassign sebelum dihitung.
 - Tambah fitur simpan riwayat atau bagikan hasil lewat link/file.
+
+## Demo
+Video demo: https://drive.google.com/file/d/12Z3R3wTwsbCSCHYIKsu9lw8iqZgYwEN5/view?usp=sharing
 
