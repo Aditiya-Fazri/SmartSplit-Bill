@@ -61,7 +61,7 @@ Dua model OCR free dibandingin: **Donut** (model lokal) dan **Gemini** (API). Pe
 | Aspek | Donut | Gemini |
 |-------|-------|--------|
 | Jenis | model lokal (HuggingFace) | API (Google) |
-| Struk 1 | banyak salah — baris header & alamat kebaca jadi item menu, total kebaca Rp 230.000 (aslinya Rp 392.040) | akurat, total Rp 392.040 |
+| Struk 1 | banyak salah, baris header & alamat kebaca jadi item menu, total kebaca Rp 230.000 (aslinya Rp 392.040) | akurat, total Rp 392.040 |
 | Struk 2 | 3 item utama kebaca benar, tapi masih tercampur baris header | akurat, total Rp 47.000 |
 | Kecepatan (per struk) | ~23–30 detik | ~5 detik |
 
